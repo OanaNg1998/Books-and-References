@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548335076 source:c:\users\oana_\desktop\programare\colcoviu_referinte_articole_carti_pagini_web\main.cpp
+	<iostream>
+	<typeinfo>
+	<string.h>
+
